@@ -1,5 +1,5 @@
-#include "iostream"
-#include "string.h"
+#include <iostream>
+#include <string.h>
 using namespace std;
 string encryption_call(string& plain_text, int& key)
 {
